@@ -1,0 +1,2 @@
+1 - http://chromedriver.storage.googleapis.com/index.html baixar a versão compativel com o chrome instalado na maquina 
+2 - Copiar o arquivo chromedriver.exe para a raiz da pasta windows para que execute o chromedriver quando executar os teste
